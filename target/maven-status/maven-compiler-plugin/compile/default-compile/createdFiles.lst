@@ -1,0 +1,7 @@
+wordolina\config\RootConfig.class
+wordolina\service\PropertyService.class
+wordolina\WebAppInitializer.class
+wordolina\config\WebConfig.class
+wordolina\dao\JdbcDao.class
+wordolina\service\DatabaseService.class
+wordolina\web\PageController.class
